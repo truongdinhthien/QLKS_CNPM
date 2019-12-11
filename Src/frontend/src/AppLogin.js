@@ -19,7 +19,10 @@ export class AppLogin extends Component {
     // });
 
     componentDidMount() {
-        console.log(this)
+        if (localStorage.getItem("fakeToken") === "admintoken")
+            this.props.history.push('/admin-mode');
+        if (localStorage.getItem("fakeToken") === "employertoken")
+            this.props.history.push('/employer-mode');
     }
 
     handleSubmit = async (e) => {
