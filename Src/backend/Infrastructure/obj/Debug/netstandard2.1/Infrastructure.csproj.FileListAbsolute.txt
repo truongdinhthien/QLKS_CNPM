@@ -9,3 +9,14 @@ C:\Users\acer\Desktop\Công nghệ phần mềm\DoAn\backend\Infrastructure\obj\
 C:\Users\acer\Desktop\Công nghệ phần mềm\DoAn\backend\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CopyComplete
 C:\Users\acer\Desktop\Công nghệ phần mềm\DoAn\backend\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.dll
 C:\Users\acer\Desktop\Công nghệ phần mềm\DoAn\backend\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.pdb
+C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.deps.json
+C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.dll
+C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.pdb
+C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Infrastructure\bin\Debug\netstandard2.1\Core.dll
+C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Infrastructure\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfo.cs
+C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CopyComplete
+C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.dll
+C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.pdb

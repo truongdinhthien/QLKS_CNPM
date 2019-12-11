@@ -77,12 +77,5 @@ namespace Core.Services
                 employer.Active = "Active";
             _unitOfWork.Complete();
         }
-        public void Reset(EmployerDTO employerDto)
-        {
-            var employer = _unitOfWork.Employers.GetBy(employerDto.EmployerId);
-            if(employer == null) return;
-            employer.Password = "123456";
-            _unitOfWork.Complete();
-        }
     }
 }

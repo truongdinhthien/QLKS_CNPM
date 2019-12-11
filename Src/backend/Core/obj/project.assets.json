@@ -1989,11 +1989,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\acer\\Desktop\\Công nghệ phần mềm\\DoAn\\backend\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\acer\\Desktop\\Công nghệ phần mềm\\Src\\backend\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "c:\\Users\\acer\\Desktop\\Công nghệ phần mềm\\DoAn\\backend\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\acer\\Desktop\\Công nghệ phần mềm\\Src\\backend\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\acer\\Desktop\\Công nghệ phần mềm\\DoAn\\backend\\Core\\obj\\",
+      "outputPath": "C:\\Users\\acer\\Desktop\\Công nghệ phần mềm\\Src\\backend\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -11,7 +11,6 @@ namespace Core.Services.Interfaces
         bool Add(EmployerDTO employerDto);
         EmployerDTO Find(string username);
         void Block(EmployerDTO employerDto);
-        void Reset(EmployerDTO employerDto);
         void Update(int id, EmployerDTO employerDto);
     }
 }

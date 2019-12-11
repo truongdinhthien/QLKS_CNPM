@@ -6,3 +6,11 @@ C:\Users\acer\Desktop\Công nghệ phần mềm\DoAn\backend\Core\obj\Debug\nets
 C:\Users\acer\Desktop\Công nghệ phần mềm\DoAn\backend\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
 C:\Users\acer\Desktop\Công nghệ phần mềm\DoAn\backend\Core\obj\Debug\netstandard2.1\Core.dll
 C:\Users\acer\Desktop\Công nghệ phần mềm\DoAn\backend\Core\obj\Debug\netstandard2.1\Core.pdb
+C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Core\bin\Debug\netstandard2.1\Core.deps.json
+C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Core\bin\Debug\netstandard2.1\Core.dll
+C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Core\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Core\obj\Debug\netstandard2.1\Core.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Core\obj\Debug\netstandard2.1\Core.dll
+C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Core\obj\Debug\netstandard2.1\Core.pdb
