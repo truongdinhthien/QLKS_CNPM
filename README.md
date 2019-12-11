@@ -1,3 +1,2 @@
-# truongdinhthien
-# truongdinhthien
-# truongdinhthien
+# QuanLyKhachSan_CongNghePhanMem
+
