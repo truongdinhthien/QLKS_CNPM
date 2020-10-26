@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acer\\Desktop\\Công nghệ phần mềm\\Src\\backend\\Core\\Core.csproj": {}
+    "C:\\Users\\AD\\Desktop\\CNPM\\QLKS_CNPM\\Src\\backend\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acer\\Desktop\\Công nghệ phần mềm\\Src\\backend\\Core\\Core.csproj": {
+    "C:\\Users\\AD\\Desktop\\CNPM\\QLKS_CNPM\\Src\\backend\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acer\\Desktop\\Công nghệ phần mềm\\Src\\backend\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\AD\\Desktop\\CNPM\\QLKS_CNPM\\Src\\backend\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\acer\\Desktop\\Công nghệ phần mềm\\Src\\backend\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acer\\Desktop\\Công nghệ phần mềm\\Src\\backend\\Core\\obj\\",
+        "projectPath": "C:\\Users\\AD\\Desktop\\CNPM\\QLKS_CNPM\\Src\\backend\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AD\\Desktop\\CNPM\\QLKS_CNPM\\Src\\backend\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,13 +38,13 @@
       "frameworks": {
         "netstandard2.1": {
           "dependencies": {
-            "Microsoft.EntityFrameworkCore.SQLite": {
+            "Microsoft.Entityframeworkcore.Sqlite": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.1.9, )"
             },
             "automapper": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[10.1.1, )"
             }
           },
           "imports": [
@@ -62,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

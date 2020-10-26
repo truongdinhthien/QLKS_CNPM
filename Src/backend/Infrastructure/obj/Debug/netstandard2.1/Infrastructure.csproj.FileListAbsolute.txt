@@ -20,3 +20,15 @@ C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Infrastructure\obj\D
 C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CopyComplete
 C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.dll
 C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.pdb
+C:\Users\AD\Desktop\CNPM\QLKS_CNPM\Src\backend\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.deps.json
+C:\Users\AD\Desktop\CNPM\QLKS_CNPM\Src\backend\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.dll
+C:\Users\AD\Desktop\CNPM\QLKS_CNPM\Src\backend\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.pdb
+C:\Users\AD\Desktop\CNPM\QLKS_CNPM\Src\backend\Infrastructure\bin\Debug\netstandard2.1\Core.dll
+C:\Users\AD\Desktop\CNPM\QLKS_CNPM\Src\backend\Infrastructure\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\AD\Desktop\CNPM\QLKS_CNPM\Src\backend\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\AD\Desktop\CNPM\QLKS_CNPM\Src\backend\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AD\Desktop\CNPM\QLKS_CNPM\Src\backend\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfo.cs
+C:\Users\AD\Desktop\CNPM\QLKS_CNPM\Src\backend\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AD\Desktop\CNPM\QLKS_CNPM\Src\backend\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CopyComplete
+C:\Users\AD\Desktop\CNPM\QLKS_CNPM\Src\backend\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.dll
+C:\Users\AD\Desktop\CNPM\QLKS_CNPM\Src\backend\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.pdb

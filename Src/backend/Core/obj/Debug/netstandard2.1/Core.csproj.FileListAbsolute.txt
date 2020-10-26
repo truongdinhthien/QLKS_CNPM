@@ -14,3 +14,12 @@ C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Core\obj\Debug\netst
 C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
 C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Core\obj\Debug\netstandard2.1\Core.dll
 C:\Users\acer\Desktop\Công nghệ phần mềm\Src\backend\Core\obj\Debug\netstandard2.1\Core.pdb
+C:\Users\AD\Desktop\CNPM\QLKS_CNPM\Src\backend\Core\bin\Debug\netstandard2.1\Core.deps.json
+C:\Users\AD\Desktop\CNPM\QLKS_CNPM\Src\backend\Core\bin\Debug\netstandard2.1\Core.dll
+C:\Users\AD\Desktop\CNPM\QLKS_CNPM\Src\backend\Core\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\AD\Desktop\CNPM\QLKS_CNPM\Src\backend\Core\obj\Debug\netstandard2.1\Core.csprojAssemblyReference.cache
+C:\Users\AD\Desktop\CNPM\QLKS_CNPM\Src\backend\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+C:\Users\AD\Desktop\CNPM\QLKS_CNPM\Src\backend\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+C:\Users\AD\Desktop\CNPM\QLKS_CNPM\Src\backend\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\AD\Desktop\CNPM\QLKS_CNPM\Src\backend\Core\obj\Debug\netstandard2.1\Core.dll
+C:\Users\AD\Desktop\CNPM\QLKS_CNPM\Src\backend\Core\obj\Debug\netstandard2.1\Core.pdb
